@@ -1242,7 +1242,7 @@ input.vTextField,input.vURLField,input.vFileBrowseField,textarea,.vLargeTextFiel
 
 .vLargeTextField { height: 118px }
 
-.grp-row .vTextField,.grp-row .vURLField,.grp-row .vFileBrowseField,.grp-row textarea,.grp-row .vLargeTextField,.grp-row .vXMLLargeTextField,.grp-autocomplete-wrapper-m2m { width: 758px }
+.grp-row .vTextField,.grp-row .vURLField,.grp-row .vFileBrowseField,.grp-row textarea,.grp-row .vLargeTextField,.grp-row .vXMLLargeTextField,.grp-autocomplete-wrapper-m2m { width: 458px }
 
 .grp-row select { max-width: 758px }
 
@@ -1601,7 +1601,7 @@ input.vTextField,input.vURLField,input.vFileBrowseField,textarea,.vLargeTextFiel
 			-webkit-border-top-right-radius: 0;
 			border-top-right-radius: 0 }
 
-	.grp-change-form .grp-module:not(.grp-submit-row) { min-width: 960px }
+	.grp-change-form .grp-module:not(.grp-submit-row) { min-width: 360px }
 
 	.grp-empty-form { display: none !important }
 
